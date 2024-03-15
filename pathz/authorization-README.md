@@ -138,7 +138,7 @@ Installed Rules
 ```
 
 Result: DENY, both paths are the same length, have the same amount of definite keys,
-apply to the user (not group), so prefer DENY over PERMIT.
+apply to the user, so prefer DENY over PERMIT.
 
 Example 4
 
